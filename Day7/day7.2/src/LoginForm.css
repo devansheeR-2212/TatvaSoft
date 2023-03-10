@@ -1,0 +1,43 @@
+
+.form1{
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    background-color: #dcd7fc;
+    border-radius: 20px;    
+    width: 250px;
+    position:absolute;
+    left: 40%;
+    top: 10%;
+    padding: 10px;
+}
+
+.username{
+    padding:20px; 
+    
+}
+
+input{
+    height: 25px;
+    margin-top: 10px;
+}
+
+.email{
+    padding: 20px;
+
+}
+
+.pass{
+    padding: 20px;
+}
+
+.clickme{
+    width: 75px;
+    height: 20%;
+    padding: 5px;
+    border-radius: 20px;
+    margin-top: 20px;
+    background-color: #b1a8f0;
+    border-color: #b1a8f0;
+}
